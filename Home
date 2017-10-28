@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Comic Sans;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#news">News</a>
+  <div class="dropdown">
+    <button class="dropbtn">More Content 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file:///C:/Users/recor/Desktop/Wallpapers.html">Wallpapers</a>
+      <a href="#">N/A</a>
+      <a href="#">N/A</a>
+    </div>
+  </div> 
+</div>
+<title>Battalious Tech</title>
+<style>
+body {
+	 background-image: url(http://www.almousawie.com/uploads/backgroundimage/body_bg5.jpg);
+}
+</style>
+</head>
+<body>
+	<h1 style="color:dimgray;text-align;center"> Welcome to Battalious Tech!</h1>
+	<h2 style="color:dimgray"> How Battalious Tech came to be </h2>
+		<p>This group was created by a 14 year old highschool student who got bored and decided to start a company.<br /> What he decided to do was think of ideas for what he could and thought of making a small organization where he could actually do three things he loves which are Coding, Building computers, and Gaming. <br />		This small soon-to-be company will be building computers, creating programs, creating and testing games, and provide tech support in some areas.</p>
+	<h2 style="color:gray"> What we will be doing? </h2>
+	<h3 style="color:darkslategray"> Building work/gaming computers</h2>
+		<p> Computers may be simple to build once you get the hang of it but they cost a lot of money so at the beginning we will start only be building low-end gaming/work pc's.</p>
+	<h3 style="color:darkslategray"> Creating custom tools and utilities.</h2>
+		<p> We will be creating new programs for different things. Whether it be a program to help begininners code their own websites or for large companies to easily expand their workforce with a job finding app, all of it will be made by us sometime in the future.</p>
+	<h3 style="color:darkslategray"> Creating and testing video games </h3>
+		<p> We will be making simple (and free) flash and HTML5 games and will soon start using more difficult coding languages.<p>
+		</body>
+		</html>
